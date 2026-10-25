@@ -12,6 +12,7 @@ build/
 .venv/
 venv/
 env/
+uv.lock
 
 # Local provider credentials
 config/models_config.json
